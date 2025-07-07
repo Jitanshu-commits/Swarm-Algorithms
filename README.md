@@ -3,6 +3,8 @@ A Python/Tkinter tool for visualizing and comparing ACO, PSO, and ABC swarm algo
 An advanced pathfinding visualization and analysis tool developed in Python. This application serves as an experimental testbed for comparing three metaheuristic algorithms—Ant Colony Optimization (ACO), Particle Swarm Optimization (PSO), and Artificial Bee Colony (ABC)—for solving the Traveling Salesperson Problem (TSP) on a complex, intermodal grid.
 The tool was designed to facilitate undergraduate-level research into the performance characteristics and trade-offs of different swarm intelligence algorithms in a realistic logistics scenario.
 
+![image](https://github.com/user-attachments/assets/a7d7e621-5673-41ea-a84b-9b72b3b4c487)
+
 ##  **Features**
 Interactive Grid Designer: Visually design complex delivery networks with standard roads, highways, walls, and intermodal hubs (airports, rail terminals).
 Intermodal A* Pathfinding: A high-performance, cached A* implementation calculates the true cost between any two points, accounting for different travel costs and fixed transfer penalties at hubs.
@@ -34,6 +36,8 @@ Run a Simulation or Experiment:
 Run Simulation: Runs the selected algorithm one time with full visual feedback. This is great for understanding how an algorithm works.
 Run Experiment: Opens a dialog asking for the number of runs per algorithm. It will then automatically run all three algorithms for the specified number of trials and prompt you to save the results as a .csv file. This is the primary tool for data collection.
 Stop Algorithm: Gracefully stops any currently running simulation or experiment.
+
+![image](https://github.com/user-attachments/assets/22e162cf-dee5-461e-885f-492538a36876)
 
 ### **Setup and Installation**
 The project is written in standard Python and has minimal dependencies.
