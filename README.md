@@ -35,6 +35,8 @@ Convergence Behavior: Observe how PSO and ABC rapidly converge from poor random 
 
 Reliability vs. Speed: Quantitatively measure which algorithms are fastest versus which are most likely to find the globally optimal solution.
 
+![image](https://github.com/user-attachments/assets/666ee7eb-5f02-459a-b2a9-126d74229f95)
+
 ## **How to Use the Tool**
 **Design Your Network:**
 
