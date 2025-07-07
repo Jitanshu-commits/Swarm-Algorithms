@@ -96,4 +96,7 @@ ABC is the most reliable for finding the best possible solution.
 This allows for a nuanced discussion about which algorithm is "best" depending on the specific problem constraints.
 
 ### **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+If you use any part of this code in your project, please include the following attribution:
+
+Created by Jitanshu Singh — ( https://github.com/Jitanshu-commits )
